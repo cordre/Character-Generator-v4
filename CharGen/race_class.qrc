@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="race_class">
+    <file>images/classes/Duelist.jpg</file>
+  </qresource>
+</RCC>
