@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="m_f">
+    <file>female.png</file>
+    <file>female_.png</file>
+    <file>male.png</file>
+    <file>male_.png</file>
+  </qresource>
+</RCC>
