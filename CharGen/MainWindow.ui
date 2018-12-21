@@ -1456,13 +1456,7 @@
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Monotype Corsiva'; font-size:18pt; font-weight:400; font-style:italic;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Anjians are a nimble lot, best used for ranged and hit &amp;amp; run tactics. Their light weight and phenomenal dexterity make them tough to pin down. They also have an incomplete skeleton, with tightly bound tendrils making up most of their limbs. This lends to quick recoveries, often without the need for recovery spells. This also works against them however, bringing their soak down to a minimum.&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;With a strong history and nobility coursing through many of their veins, Anjians are now working to restore their home to its former glory. With a debilitating defeat against the combined forces of the Dark Realm and Sho, and the shattering of their royal family in the aftermath, many Anjians scattered to various planets to avoid the fallout. While undoubtedly a jack-of-all-trades race by design, they also facilitate the largest and most prominent university in the universe. They have also sworn an unfettered loyalty to the new Council.&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Unrivaled in numbers and having deep roots in both politics and education, you'd be hard-pressed to find an aspect of daily life that wasn't dominated by Anjian influence.&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Starting Class: Wind Swordsman&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="acceptRichText">
      <bool>true</bool>
@@ -1667,7 +1661,7 @@ p, li { white-space: pre-wrap; }
      </rect>
     </property>
     <property name="text">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;img src=&quot;:/race_class/images/classes/Duelist.jpg&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     <string/>
     </property>
    </widget>
    <widget class="QLabel" name="cyrLabel_2">
@@ -2113,9 +2107,6 @@ p, li { white-space: pre-wrap; }
    </widget>
   </widget>
  </widget>
- <resources>
-  <include location="race_class.qrc"/>
-  <include location="icons/m_f.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>
