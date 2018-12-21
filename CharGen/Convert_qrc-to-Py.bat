@@ -1,1 +1,1 @@
-pyrcc5 %1 > %1.py
+pyrcc5 %1 > %1_rc
